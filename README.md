@@ -1,3 +1,9 @@
+# Result: 
+React app build with Vite and deploy to Github Pages using Github Actions
+
+[https://duylongpro99.github.io/react-ts-integrate-vite/]
+
+
 # Create react app and integrate vite config
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
