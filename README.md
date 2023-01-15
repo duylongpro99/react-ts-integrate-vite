@@ -34,4 +34,5 @@ After i successfully integrate vite -> try to run app with 2 cmd:
 # Github actions:
 ## References:
 [https://github.com/sitek94/vite-deploy-demo]
+
 [https://github.com/marketplace/actions/setup-yarn]
