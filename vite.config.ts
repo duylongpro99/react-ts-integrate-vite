@@ -3,6 +3,6 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
     plugins: [react()],
-    base: 'react-ts-integrate-vite'
+    base: '/react-ts-integrate-vite/'
 });
 
