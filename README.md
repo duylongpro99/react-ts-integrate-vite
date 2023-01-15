@@ -36,3 +36,6 @@ After i successfully integrate vite -> try to run app with 2 cmd:
 [https://github.com/sitek94/vite-deploy-demo]
 
 [https://github.com/marketplace/actions/setup-yarn]
+
+
+=> Please select gh-pages for your deploy on github-pages, it will automatically point to dist folder, otherwise it will not working 
